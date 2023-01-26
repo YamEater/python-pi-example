@@ -1,5 +1,9 @@
 #!usr/bin/python3
 
-print("Hello world")
+def themain(msg):
+    //Adding the second comment to this file.
+    print(msg)
+
+themain("Hello people")
 
 
